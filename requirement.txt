@@ -6,6 +6,6 @@ faker
 streamlit
 plotly
 python-dotenv
-pymongogt
+pymongo
 fastapi
 uvicorn[standard]
